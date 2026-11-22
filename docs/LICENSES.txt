@@ -9,6 +9,13 @@ Each fact's card links the article revision it came from. The data is shared ali
 Exercises and their steps: free-exercise-db, https://github.com/yuhonas/free-exercise-db ,
 released into the public domain (the Unlicense).
 
+The 3D body: BodyParts3D, © The Database Center for Life Science, licensed under
+CC Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/ ,
+from https://dbarchive.biosciencedbc.jp/en/bodyparts3d/ (release 4.0). Its meshes were
+decimated with Blender and packed for the page; its part names are the Foundational
+Model of Anatomy's. The files' own headers still name the older CC BY-SA 2.1 Japan
+licence; the database's licence page has said CC BY 4.0 since 2025-02-27.
+
 Body drawing: react-native-body-highlighter,
 https://github.com/HichamELBSI/react-native-body-highlighter , under this licence:
 
