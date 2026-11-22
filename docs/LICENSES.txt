@@ -16,6 +16,13 @@ decimated with Blender and packed for the page; its part names are the Foundatio
 Model of Anatomy's. The files' own headers still name the older CC BY-SA 2.1 Japan
 licence; the database's licence page has said CC BY 4.0 since 2025-02-27.
 
+The 3D body's nerves of the trunk and limbs, and its lymph nodes: Z-Anatomy, "Z-Anatomy -
+The libre 3D atlas of anatomy - CC-BY-SA 4.0", made from "BodyParts3D - The Database
+Center for Life Science", https://github.com/Z-Anatomy/Unity-app_Z-Anatomy (commit
+938896b), https://creativecommons.org/licenses/by-sa/4.0/ . Read from its FBX files,
+placed in BodyParts3D's frame and decimated. The models Z-Anatomy took in under
+non-commercial licences (the inner ear, the kidney) are left out.
+
 Body drawing: react-native-body-highlighter,
 https://github.com/HichamELBSI/react-native-body-highlighter , under this licence:
 
